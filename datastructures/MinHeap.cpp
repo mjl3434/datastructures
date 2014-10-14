@@ -7,6 +7,7 @@
 
 #include "MinHeap.h"
 
-//namespace com_marklarwill_datastructuers {
+namespace com_marklarwill_datastructuers {
 
-//}
+	// Nothing here because template classes for the implementation to be in the .h file
+}

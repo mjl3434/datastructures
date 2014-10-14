@@ -8,7 +8,7 @@
 #ifndef MINHEAP_H_
 #define MINHEAP_H_
 
-//namespace com_marklarwill_datastructuers {
+namespace com_marklarwill_datastructuers {
 
 const unsigned int MIN_SIZE = 16;
 
@@ -209,6 +209,6 @@ private:
 
 };
 
-//}
+}
 
 #endif /* MINHEAP_H_ */
